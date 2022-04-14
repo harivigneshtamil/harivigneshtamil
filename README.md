@@ -4,6 +4,8 @@
   <img align="left" alt="Hari's Insta" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=harivigneshtamil.harivigneshtamil)
+
 <!-- 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
